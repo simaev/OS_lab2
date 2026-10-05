@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../MathLib/MathLib.vcxproj" />
-  <Project Path="OS_lab_2nd.vcxproj" />
+  <Project Path="../MathLib/MathLib.vcxproj" Id="b7a7d4ac-5a5f-4db2-862f-6652e1a83088" />
+  <Project Path="OS_lab_2nd.vcxproj" Id="e74001a9-8b7e-4a1c-9788-f07087bbb936" />
 </Solution>
